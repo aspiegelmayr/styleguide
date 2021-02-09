@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/styleguide/static/css/main.0bb5236c.chunk.css",
+    "main.js": "/styleguide/static/js/main.31e2b814.chunk.js",
+    "main.js.map": "/styleguide/static/js/main.31e2b814.chunk.js.map",
+    "runtime-main.js": "/styleguide/static/js/runtime-main.b363d762.js",
+    "runtime-main.js.map": "/styleguide/static/js/runtime-main.b363d762.js.map",
+    "static/js/2.a92a7106.chunk.js": "/styleguide/static/js/2.a92a7106.chunk.js",
+    "static/js/2.a92a7106.chunk.js.map": "/styleguide/static/js/2.a92a7106.chunk.js.map",
+    "static/js/3.cd6b4d2c.chunk.js": "/styleguide/static/js/3.cd6b4d2c.chunk.js",
+    "static/js/3.cd6b4d2c.chunk.js.map": "/styleguide/static/js/3.cd6b4d2c.chunk.js.map",
+    "index.html": "/styleguide/index.html",
+    "static/css/main.0bb5236c.chunk.css.map": "/styleguide/static/css/main.0bb5236c.chunk.css.map",
+    "static/js/2.a92a7106.chunk.js.LICENSE.txt": "/styleguide/static/js/2.a92a7106.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/styleguide/static/media/sketchgothicschool.e8c8b9f3.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b363d762.js",
+    "static/js/2.a92a7106.chunk.js",
+    "static/css/main.0bb5236c.chunk.css",
+    "static/js/main.31e2b814.chunk.js"
+  ]
+}
